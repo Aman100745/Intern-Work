@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "To-Do List App",
+    "description": "A simple to-do list app where you can add, complete and delete tasks. Made using HTML, CSS and JavaScript.",
+    "tech": "HTML, CSS, JavaScript",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Weather App",
+    "description": "Shows current weather of a city using a public weather API. Built while learning fetch() and JSON.",
+    "tech": "HTML, CSS, JavaScript, API",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio Website",
+    "description": "This website! My first full stack project connecting a frontend to a Node.js backend.",
+    "tech": "HTML, CSS, JS, Node.js, Express",
+    "link": "#"
+  }
+]
